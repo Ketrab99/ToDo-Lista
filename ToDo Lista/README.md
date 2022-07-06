@@ -1,2 +1,2 @@
-# Programowanie-Aplikacji-Mobilnych
+# Mobilne Systemy Operacyjne
 # ToDo-Lista
